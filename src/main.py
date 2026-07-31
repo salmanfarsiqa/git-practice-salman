@@ -6,3 +6,4 @@ print("Today's Date :", date.today())
 
 print(add(10,5))
 print(subtract(10,5))
+print(multiply(10,5))
