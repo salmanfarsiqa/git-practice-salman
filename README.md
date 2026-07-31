@@ -3,4 +3,4 @@
 **Name:** Salman Farsi
 
 ## Description
-This repository is created for practicing Git and GitHub. It includes basic Git commands, commits, branches, and merge operations as part of my learning journey.
+This repository is a hands-on practice project for learning Git and GitHub. It covers essential Git concepts such as commits, branches, merges, and basic repository workflows.
