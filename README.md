@@ -1,5 +1,6 @@
 # Git Practice Project
 
-Name: Salman Farsi
+**Name:** Salman Farsi
 
-Description: This project is created to practice Git and GitHub workflow.
+## Description
+This repository is created for practicing Git and GitHub. It includes basic Git commands, commits, branches, and merge operations as part of my learning journey.
